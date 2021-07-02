@@ -1,5 +1,8 @@
 # Drupal9 - Content Staging/Propagation and Preview content using Deploy + Workspace + Replication + Multiversion + Relaxed
-The Drupal Deploy module with the help of other Drupal modules allows users to easily stage and preview content for a Drupal site. It provides the capability to propagate content from one environment to another environment. There are various documents/forums available on the web to understand how these modules work in collaboration to implement this kind of solution. Here is the list of modules.
+The Drupal Deploy module with the help of other Drupal modules allows users to easily stage and preview content for a Drupal site. It provides the capability to propagate content from one environment to another environment. There are various documents/forums available on the web to understand how these modules work in collaboration to implement this kind of solution. Since a lot of people have been using this combination, hence I want to create this page to capture all the patches/findings in one place.
+
+
+Here is the list of modules.
 
 1. Deploy
 2. Conflict
@@ -15,7 +18,7 @@ Recently I was upgrading a Drupal website to Drupal 9 and then I came across thi
 
 
 # Solution
-1. Use Core Workspaces module instead of Contrib workspace module. The plan was to use it along with other modules but it has a lot of compatibility issues with Deploy and other dependents modules. It seems so far it's not developed considering the Deploy solution in mind. Though it's still in experimental mode.
+1. Use the Core Workspaces module instead of Contrib workspace module. The plan was to use it along with other modules but it has a lot of compatibility issues with Deploy and other dependents modules. It seems so far it's not developed considering the Deploy solution in mind. Though it's still in experimental mode.
 2. Since the Contrib workspace module is no longer available in D9 so was thinking to upgrade it to D9 to avoid any compatibility issues with other dependent modules. However, the Replication and Multiversion modules are not ready for D9 yet and they have a lot of deprecated code and other dependency issues.
 
 I went ahead with #2 and start upgrading all the listed modules in D9.
