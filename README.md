@@ -34,3 +34,9 @@ Here's the list of patches for the corresponding modules.
 | [RELAXed Web Services](https://www.drupal.org/project/relaxed) | https://www.drupal.org/project/relaxed/issues/3221380 | https://www.drupal.org/files/issues/2021-06-29/Drupal-9-compatibility-issues-3221380-2.patch | |
 | [Conflict](https://www.drupal.org/project/conflict) | NA | NA | Available in D9|
 | [Key-value Extensions](https://www.drupal.org/project/key_value) | https://www.drupal.org/project/key_value/issues/3186113 | https://www.drupal.org/project/key_value/issues/3186113 | Just the version change|
+
+## References
+* https://austin2014.drupal.org/session/content-staging-drupal-8.html
+* https://amsterdam2014.drupal.org/session/content-staging-drupal-8-continued.html
+* https://www.youtube.com/watch?v=tgmypdEOEVs
+* https://www.youtube.com/watch?v=gRmLEwStNjY
