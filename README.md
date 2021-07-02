@@ -29,3 +29,5 @@ Here's the list of patches for the corresponding modules.
 | [Multiversion](https://www.drupal.org/project/multiversion) | https://www.drupal.org/project/multiversion/issues/3221332 | https://www.drupal.org/files/issues/2021-06-29/Drupal-9-compatibility-issues-3221332-6.patch | |
 | [Replication](https://www.drupal.org/project/replication) | https://www.drupal.org/project/replication/issues/3221333 | https://www.drupal.org/files/issues/2021-06-29/Drupal-9-compatibility-issues-3221333-5.patch | |
 | [RELAXed Web Services](https://www.drupal.org/project/relaxed) | https://www.drupal.org/project/relaxed/issues/3221380 | https://www.drupal.org/files/issues/2021-06-29/Drupal-9-compatibility-issues-3221380-2.patch | |
+| [Conflict](https://www.drupal.org/project/conflict) | NA | NA | Available in D9|
+| [Key-value Extensions](https://www.drupal.org/project/key_value) | https://www.drupal.org/project/key_value/issues/3186113 | https://www.drupal.org/project/key_value/issues/3186113 | Just the version change|
